@@ -682,3 +682,4 @@ define([
 
     return $.mage.configurable;
 });
+ 
